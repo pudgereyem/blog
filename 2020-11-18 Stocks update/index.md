@@ -25,7 +25,7 @@ I currently sit with 40% cash and 60% in stocks. Below is a table of my rebalanc
 | Name               | Weight  | Market cap | Price/Book |    P/E | Dividend |
 | :----------------- | :------ | ---------: | ---------: | -----: | -------: |
 | Microsoft          | ~~2~~ 6 |    \$1,606 |      13.02 |  34.27 |    0.99% |
-| Actvision Blizzard | 3       |       \$59 |       4.08 |  26.65 |    0.54% |
+| Activision Blizzard | 3       |       \$59 |       4.08 |  26.65 |    0.54% |
 | BMW                | 3       |       \$48 |       0.82 |   9.91 |    3.38% |
 | Alphabet           | 2       |    \$1,191 |       5.61 |  34.08 |          |
 | Amazon             | ~~1~~ 2 |    \$1,564 |      18.90 |  91.14 |          |
@@ -80,7 +80,7 @@ Below you can read some factual information together with some of my personal op
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PHiGEasa198" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I think we are looking ahead to a good Q4 with both Microsoft and Sony releasing new consoles (Xbox and Playstation), thinking that a lot of people probably will be picking up the newly released **Call of Duty: Black Ops Cold War**. The fact that people are staying inside more during the pandemic can't hurt sales either. [Here](http://pudge.se/ZF9rld) is a screenshot of the Q3 results broken down by the three segments; _Activsion_, _Blizzard_ and _King_.
+I think we are looking ahead to a good Q4 with both Microsoft and Sony releasing new consoles (Xbox and Playstation), thinking that a lot of people probably will be picking up the newly released **Call of Duty: Black Ops Cold War**. The fact that people are staying inside more during the pandemic can't hurt sales either. [Here](http://pudge.se/ZF9rld) is a screenshot of the Q3 results broken down by the three segments; _Activision_, _Blizzard_ and _King_.
 
 ### AMD (Hold: 1)
 
