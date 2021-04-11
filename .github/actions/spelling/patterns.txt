@@ -1,0 +1,15 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
+# ignore long runs of a single character:
+\b([A-Za-z])\g{-1}{3,}\b
+
+# ignore urls, regex taken from this answer on Stack Overflow; https://stackoverflow.com/a/3809435
+https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)
+
+# ignore full urls, taken from here; https://unix.stackexchange.com/a/118103
+http.?:\/\/\S+
+
+# ignore html elements, regex taken from https://www.octoparse.com/blog/using-regular-expression-to-match-html
+<(.*)>.*?|<(.*) \/>
+
+# ingore single line code
+\x60.+?\x60

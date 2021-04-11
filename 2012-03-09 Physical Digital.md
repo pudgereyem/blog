@@ -17,11 +17,11 @@ Okay, so thats really cool. But what's even cooler is the guys behind Instaprint
 
 ## Physical + Digital
 
-The last week I've gotten my mind completly blown of several times about the awesomeness that can be done when doing both digital and physical. As for example, the guys developing Instraprint is also creating [instaprint.me](http://instaprint.me).
+The last week I've gotten my mind completely blown of several times about the awesomeness that can be done when doing both digital and physical. As for example, the guys developing Instraprint is also creating [instaprint.me](http://instaprint.me).
 
 ### List of awesome Physical + Digital projects:
 
-- [Autonomus Agile Aerial Robots](http://blog.pudge.se/post/autonomous-agile-aerial-robots) - I mean c'mon, that title is just mad.
+- [Autonomous Agile Aerial Robots](http://blog.pudge.se/post/autonomous-agile-aerial-robots) - I mean c'mon, that title is just mad.
 - [Ninja Blocks: Connect your world with the web.](http://kck.st/y49ssb)
 - [Instaprint - The location based photo booth for Instagram](http://kck.st/Av7rIe)
 

@@ -6,7 +6,7 @@ tags: funny, gadgets, sound
 
 ![image](./succes-kid.jpeg)
 
-I ordered 2 portable speakers (Harman Kardon Go + Play II) and yesterday I recieved a text, saying that a package had arrived for me. Happy I walked down and carried the 13.7 kg heavy package home.
+I ordered 2 portable speakers (Harman Kardon Go + Play II) and yesterday I received a text, saying that a package had arrived for me. Happy I walked down and carried the 13.7 kg heavy package home.
 
 At the post office I did see that the package said "Kolli 1/2", implying that this was one package of two… I asked if there were any more laying around for me, and got told "no.." (Lucky for me, I would not have managed carrying anymore anyway).
 

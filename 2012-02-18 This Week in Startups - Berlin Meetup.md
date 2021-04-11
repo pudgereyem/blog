@@ -3,7 +3,7 @@ title: This Week in Startups - Berlin Meetup
 date: 2012-02-18 10:49
 ---
 
-If you are interessted in tech and startups, I highly recommend you get started watching [This Week In startups](http://www.thisweekinstartups.com)
+If you are interested in tech and startups, I highly recommend you get started watching [This Week In startups](http://www.thisweekinstartups.com)
 
 This weeks episode featured the Berlin Meetup, representing 5 startups. Like them all in some way, go watch the episode here [http://www.thisweekinstartups.com/blog/berlin-meetup-233.html](http://www.thisweekinstartups.com/blog/berlin-meetup-233.html)
 

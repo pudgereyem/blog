@@ -15,7 +15,7 @@ date: 2020-11-18
           Alphabet    Amazon     Apple      Shopify
 
         1          1          1          1          1
-       AMD       Exxon      Nordea     NVIDIA     Paypal
+       AMD       Exxon      Nordea     Nvidia     PayPal
 ```
 
 ### Summary
@@ -25,7 +25,7 @@ I currently sit with 40% cash and 60% in stocks. Below is a table of my rebalanc
 | Name               | Weight  | Market cap | Price/Book |    P/E | Dividend |
 | :----------------- | :------ | ---------: | ---------: | -----: | -------: |
 | Microsoft          | ~~2~~ 6 |    \$1,606 |      13.02 |  34.27 |    0.99% |
-| Actvision Blizzard | 3       |       \$59 |       4.08 |  26.65 |    0.54% |
+| Activision Blizzard | 3       |       \$59 |       4.08 |  26.65 |    0.54% |
 | BMW                | 3       |       \$48 |       0.82 |   9.91 |    3.38% |
 | Alphabet           | 2       |    \$1,191 |       5.61 |  34.08 |          |
 | Amazon             | ~~1~~ 2 |    \$1,564 |      18.90 |  91.14 |          |
@@ -34,8 +34,8 @@ I currently sit with 40% cash and 60% in stocks. Below is a table of my rebalanc
 | AMD                | 1       |      \$103 |      26.59 | 115.91 |          |
 | Exxon Mobile       | ~~2~~ 1 |      \$158 |       0.89 |  48.07 |    9.35% |
 | Nordea             | 1       |       \$35 |       0.91 |   9.33 |          |
-| NVIDIA             | 1       |      \$332 |      23.84 |  98.75 |    0.12% |
-| Paypal             | 1       |      \$224 |      12.11 |  72.04 |          |
+| Nvidia             | 1       |      \$332 |      23.84 |  98.75 |    0.12% |
+| PayPal             | 1       |      \$224 |      12.11 |  72.04 |          |
 
 > My investment strategy is inspired from playing [Fantasy Premier League](https://fantasy.premierleague.com/) (it's true, lol) and can be summarized in three steps.
 >
@@ -50,8 +50,8 @@ It was a tough choice, but the captaincy choice finally landed on Microsoft for 
 1. Impressive revenue growth
 2. Multiple revenue streams
 3. Good profit margin
-4. Growing precense in the developer space
-5. Using cash at hand very well, taking many different bets as well as smart acqusitions
+4. Growing presence in the developer space
+5. Using cash at hand very well, taking many different bets as well as smart acquisitions
 
 ### Q3 Earning Reports
 
@@ -68,8 +68,8 @@ Below is a summary of the Q3 earnings. Most companies had great third quarters, 
 | Exxon Mobile        | \$46,200 |     -\$680 |         -1.5% |
 | Microsoft           | \$37,154 |   \$13,893 |           37% |
 | Nordea              |  \$2,618 |      \$952 |           36% |
-| NVIDIA              |  \$4,730 |    \$1,336 |           28% |
-| Paypal              |  \$5,459 |    \$1,021 |           20% |
+| Nvidia              |  \$4,730 |    \$1,336 |           28% |
+| PayPal              |  \$5,459 |    \$1,021 |           20% |
 | Shopify             |    \$767 |      \$191 |           25% |
 
 Below you can read some factual information together with some of my personal opinions about the companies.
@@ -80,7 +80,7 @@ Below you can read some factual information together with some of my personal op
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PHiGEasa198" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I think we are looking ahead to a good Q4 with both Microsoft and Sony releasing new consoles (Xbox and Playstation), thinking that a lot of people probably will be picking up the newly released **Call of Duty: Black Ops Cold War**. The fact that people are staying inside more during the pandemic can't hurt sales either. [Here](http://pudge.se/ZF9rld) is a screenshot of the Q3 results broken down by the three segments; _Activsion_, _Blizzard_ and _King_.
+I think we are looking ahead to a good Q4 with both Microsoft and Sony releasing new consoles (Xbox and PlayStation), thinking that a lot of people probably will be picking up the newly released **Call of Duty: Black Ops Cold War**. The fact that people are staying inside more during the pandemic can't hurt sales either. [Here](http://pudge.se/ZF9rld) is a screenshot of the Q3 results broken down by the three segments; _Activision_, _Blizzard_ and _King_.
 
 ### AMD (Hold: 1)
 
@@ -100,7 +100,7 @@ After having it's first ever revenue decline in the previous quarter, Google had
 - **Google Cloud:** \$3.4 billion (+45%)
 - **Google other:** \$5.5 billion (+35%)
 
-I've definitely noticed that Youtube are advertising much more.. To the point that I'm sometimes thinking of subscribing to YouTube premium. So maybe we'll see an increase of YouTube Premium subscriptions going forward. It's hard to analyse that however, since revenue from YouTube premium falls into the segment _"Google other"_ which also includes revenues from app purhcases and hardware sales.
+I've definitely noticed that Youtube are advertising much more.. To the point that I'm sometimes thinking of subscribing to YouTube premium. So maybe we'll see an increase of YouTube Premium subscriptions going forward. It's hard to analyse that however, since revenue from YouTube premium falls into the segment _"Google other"_ which also includes revenues from app purchases and hardware sales.
 
 It's nice to see the revenue growth for Google Cloud. Google's CEO Sundar Pichai said in the earnings call that they will break out Google Cloud as a separate reporting segment in Q4.
 
@@ -118,7 +118,7 @@ Amazon is dominating E-commerce in many countries and advancing in others. I thi
 
 In November Apple released a new series of Macs, built with its own ARM-based [M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/) which [has been reported](https://www.macrumors.com/2020/11/16/apple-silicon-macbook-air-ssd-benchmarks/) to be twice as performant as previous models. I think this is the biggest innovation for Macs in many years.
 
-Sales grew everywhere except in China where it went down 29%, from $11.1 billion to $7.9 billion, most likely due to Donald Trump threatining to ban WeChat ([Bloomberg article here from August](https://www.bloomberg.com/news/articles/2020-08-12/apple-s-44-billion-china-market-threatened-by-trump-wechat-ban)).
+Sales grew everywhere except in China where it went down 29%, from $11.1 billion to $7.9 billion, most likely due to Donald Trump threatening to ban WeChat ([Bloomberg article here from August](https://www.bloomberg.com/news/articles/2020-08-12/apple-s-44-billion-china-market-threatened-by-trump-wechat-ban)).
 
 ### BMW (Hold: 3)
 
@@ -142,7 +142,7 @@ We saw growth in all of Microsoft's three segments.
 - **Intelligent Cloud:** \$13.0 billion (+20%)
 - **More Personal Computing:** \$11.8 billion (+6%)
 
-What excites me the most about Microsoft is their growing precense in the developer community. So much software that I touch these days as a developer is from Microsoft, e.g Visual Studio Code or Github. Even though I've never personally used Microsoft clouds solutions (Azure) it's pretty remarkable that this segment now brings in the highest share of revenue for Microsoft.
+What excites me the most about Microsoft is their growing presence in the developer community. So much software that I touch these days as a developer is from Microsoft, e.g Visual Studio Code or Github. Even though I've never personally used Microsoft clouds solutions (Azure) it's pretty remarkable that this segment now brings in the highest share of revenue for Microsoft.
 
 ### Nordea (Hold: 1)
 
@@ -150,17 +150,17 @@ What excites me the most about Microsoft is their growing precense in the develo
 
 Nordea's [CET1 ratio](https://www.investopedia.com/terms/c/common-equity-tier-1-cet1.asp) sits at is 16.4%, meaning that they do have cash on hand, and say that they are well positioned to pay out dividends in the future. Until they do so, I'm lowering my investment in Nordea from 2 to 1 (weight), but might reconsider if they start paying out dividends again.
 
-### NVIDIA (Hold: 1)
+### Nvidia (Hold: 1)
 
-> Good Q3, record revenue of $4.73 billion, up 57 percent from a year earlier. Record Gaming revenue of $2.27 billion, up 37 percent from a year earlier. Data Center revenue of \$1.90 billion, up 162 percent from a year earlier. You can find the more information [here](https://investor.nvidia.com/financial-info/quarterly-results/default.aspx).
+> Good Q3, record revenue of $4.73 billion, up 57 percent from a year earlier. Record Gaming revenue of $2.27 billion, up 37 percent from a year earlier. Data Center revenue of \$1.90 billion, up 162 percent from a year earlier. You can find the more information [here](https://investor.Nvidia.com/financial-info/quarterly-results/default.aspx).
 
-Solid quarter by NVIDIA. High valuation though. However, I'm bullish on all things gaming and NVIDIA gives is great for that.
+Solid quarter by Nvidia. High valuation though. However, I'm bullish on all things gaming and Nvidia gives is great for that.
 
 ### PayPal (Hold: 1)
 
 > Good Q3, revenue of $5.46 billion (25% increase Y/Y) and a net income at $1.1 billion (20% margin). You can find the Press Release and Webcast [here](https://investor.pypl.com/home/default.aspx). I recommend the Investor Update.
 
-PayPal has stepped it up the recent years, making both good [acqusitions](https://en.wikipedia.org/wiki/PayPal#Acquisitions) and investments in the fintech space, including the two swedish companies iZettle (acqusition) and Tink (investment). As fintech will keep growing, I think PayPal will do well.
+PayPal has stepped it up the recent years, making both good [acquisitions](https://en.wikipedia.org/wiki/PayPal#Acquisitions) and investments in the fintech space, including the two swedish companies iZettle (acquisition) and Tink (investment). As fintech will keep growing, I think PayPal will do well.
 
 ### Shopify (Hold: 2)
 
@@ -168,4 +168,4 @@ PayPal has stepped it up the recent years, making both good [acqusitions](https:
 
 ![Shopify: Merchant-First Focus Through Product Innovation](./shopify.png)
 
-In my opinion Shopify is the best e-commerce platform out there. They are contionously innovating their product to make it super simple for Merchants to sell both online and in store ([here is a great slide](http://pudge.se/Op37MF) from their Investor Deck for Q3 showing that). Is the stock pricy with a P/E sitting around 600? Yep. However, owning both Amazon and Shopify gives me great exposure to E-commerce in two different ways.
+In my opinion Shopify is the best e-commerce platform out there. They are continuously innovating their product to make it super simple for Merchants to sell both online and in store ([here is a great slide](http://pudge.se/Op37MF) from their Investor Deck for Q3 showing that). Is the stock pricy with a P/E sitting around 600? Yep. However, owning both Amazon and Shopify gives me great exposure to E-commerce in two different ways.

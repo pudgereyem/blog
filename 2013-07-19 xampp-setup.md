@@ -35,54 +35,60 @@ It addresses som issues I had when installing XAMMP, and also explains how to st
 
 File: `/private/etc/hosts`
 
-    # Setup localhost
-    127.0.0.1	localhost
+```
+# Setup localhost
+127.0.0.1	localhost
 
-    # Own projects
-    127.0.0.1 pudge.lcl
-    127.0.0.1 wordpress.lcl
+# Own projects
+127.0.0.1 pudge.lcl
+127.0.0.1 wordpress.lcl
 
-    # Clients
-    127.0.0.1 clientname.lcl
-    127.0.0.1 dev.anotherclient.lcl
+# Clients
+127.0.0.1 clientname.lcl
+127.0.0.1 dev.anotherclient.lcl
+```
 
 ## etc/extra/httpd-vhosts.conf
 
 File: `/Applications/XAMPP/etc/extra/httpd-vhosts.conf`
 
 ### localhost entry
-
-    <VirtualHost *:80>
-    	ServerName localhost
-    	DocumentRoot "/Users/victormeyer/Dropbox/Sites"
-    	<Directory "/Users/victormeyer/Dropbox/Sites">
-    		Options Indexes FollowSymLinks Includes execCGI
-    		AllowOverride All
-    		Order Allow,Deny
-    		Allow From All
-    	</Directory>
-    </VirtualHost>
+```
+<VirtualHost *:80>
+    ServerName localhost
+    DocumentRoot "/Users/victormeyer/Dropbox/Sites"
+    <Directory "/Users/victormeyer/Dropbox/Sites">
+        Options Indexes FollowSymLinks Includes execCGI
+        AllowOverride All
+        Order Allow,Deny
+        Allow From All
+    </Directory>
+</VirtualHost>
+```
 
 ### custom host entry
 
 Replace `yourwebsite` with whatever you name your website.
 
-    <VirtualHost *:80>
-    	ServerName yourwebsite.lcl
-    	DocumentRoot "/Users/victormeyer/Dropbox/Sites/yourwebsite"
-    	<Directory "/Users/victormeyer/Dropbox/Sites/yourwebsite">
-    		Options Indexes FollowSymLinks Includes ExecCGI
-    		AllowOverride All
-    		Order Allow,Deny
-    		Allow From All
-    	</Directory>
-    	ErrorLog "logs/yourwebsite.lcl-error_log"
-    </VirtualHost>
+```
+<VirtualHost *:80>
+    ServerName yourwebsite.lcl
+    DocumentRoot "/Users/victormeyer/Dropbox/Sites/yourwebsite"
+    <Directory "/Users/victormeyer/Dropbox/Sites/yourwebsite">
+        Options Indexes FollowSymLinks Includes ExecCGI
+        AllowOverride All
+        Order Allow,Deny
+        Allow From All
+    </Directory>
+    ErrorLog "logs/yourwebsite.lcl-error_log"
+</VirtualHost>
+```
 
 ## XAMPP/xamppfiles/etc/extra/httpd-xampp.conf
 
 File: `/Applications/XAMPP/xamppfiles/etc/extra/httpd-xampp.conf`
 
+```
     #
     # Enable gzip compression
     # <http://www.mydigitallife.info/configure-and-enable-gzip-compression-with-mod_deflate-to-speed-up-apache-and-save-bandwidth/
@@ -102,22 +108,27 @@ File: `/Applications/XAMPP/xamppfiles/etc/extra/httpd-xampp.conf`
     AddOutputFilterByType DEFLATE application/x-httpd-fastphp
     AddOutputFilterByType DEFLATE application/x-httpd-eruby
     AddOutputFilterByType DEFLATE image/svg+xml
+```
 
 ## MongoDB Support
 
 Read <http://www.php.net/manual/en/mongo.installation.php#mongo.installation.osx>.
 Basically download the drivers, and add mongo as an php extension, by including the following line to your `php.ini`.
 
-    extension=mongo.so
+```
+extension=mongo.so
+```
 
 ## cURL issue - cacert.pem
 
 When I was working with the Twitter API, it all of a sudden stopped working, not knowing why really, I found that it had something to do with cURL permissions. I read <https://github.com/J7mbo/twitter-api-php/issues/39> and <https://github.com/J7mbo/twitter-api-php/issues/21#issuecomment-23699461> who had the same problem. The solution was to download `cacert.pem` from <http://curl.haxx.se/docs/caextract.html> and reference it in your `php.ini`, like so:
 
-    ; issue with cURL
-    ; https://github.com/J7mbo/twitter-api-php/issues/21#issuecomment-23699461
-    ; Added 2013-12-11
-    curl.cainfo=/Users/victormeyer/bin/cacert.pem
+```
+; issue with cURL
+; https://github.com/J7mbo/twitter-api-php/issues/21#issuecomment-23699461
+; Added 2013-12-11
+curl.cainfo=/Users/victormeyer/bin/cacert.pem
+```
 
 ## Extra tips and tricks
 
@@ -125,10 +136,13 @@ When I was working with the Twitter API, it all of a sudden stopped working, not
 
 Add the following lines to your `~/.bash_profile`, where slime is my text editor of choise; Sublime Text 2. After you've added these lines, restart the terminal and try them out by just typing the alias (e.g `hosts`) and hit Enter.
 
-    # Sublime Text 2 alias
-    alias slime='open -a "/Applications/Sublime Text 2.app"'
 
-    # Shortcuts
-    alias hosts="slime /private/etc/hosts;"
-    alias vhosts="slime /Applications/XAMPP/etc/extra/httpd-vhosts.conf;"
-    alias logs="slime /Applications/XAMPP/xamppfiles/logs";
+```
+# Sublime Text 2 alias
+alias slime='open -a "/Applications/Sublime Text 2.app"'
+
+# Shortcuts
+alias hosts="slime /private/etc/hosts;"
+alias vhosts="slime /Applications/XAMPP/etc/extra/httpd-vhosts.conf;"
+alias logs="slime /Applications/XAMPP/xamppfiles/logs";
+```
