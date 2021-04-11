@@ -43,7 +43,7 @@ if __name__ == "__main__":
     times.append(["00:29:18", "00:29:25"]) # Hammar BACKHAND
     times.append(["00:29:37", "00:29:54"]) # Carl slår Hammar på nät
     times.append(["00:32:29", "00:32:47"]) # Bra boll mellan Hammar och Victor
-    times.append(["00:33:58", "00:34:08"]) # Äcklig stoppboll av Carlos
+    times.append(["00:33:58", "00:34:08"]) # Stoppboll av Carlos
     times.append(["00:35:04", "00:35:12"]) # Vattenpaus
     times.append(["00:37:04", "00:37:19"]) # Carlos yxkast-lopp över Hammar
     times.append(["00:38:05", "00:38:15"]) # Victor lobbar Hammar

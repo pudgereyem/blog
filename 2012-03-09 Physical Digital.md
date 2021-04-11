@@ -17,7 +17,7 @@ Okay, so thats really cool. But what's even cooler is the guys behind Instaprint
 
 ## Physical + Digital
 
-The last week I've gotten my mind completley blown of several times about the awesomeness that can be done when doing both digital and physical. As for example, the guys developing Instraprint is also creating [instaprint.me](http://instaprint.me).
+The last week I've gotten my mind completely blown of several times about the awesomeness that can be done when doing both digital and physical. As for example, the guys developing Instraprint is also creating [instaprint.me](http://instaprint.me).
 
 ### List of awesome Physical + Digital projects:
 
