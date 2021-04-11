@@ -4,3 +4,6 @@
 
 # ignore urls, regex taken from this answer on Stack Overflow; https://stackoverflow.com/a/3809435
 https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)
+
+# ignore html elements, regex taken from https://www.octoparse.com/blog/using-regular-expression-to-match-html
+<(.*)>.*?|<(.*) \/>

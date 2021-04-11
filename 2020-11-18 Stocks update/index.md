@@ -51,7 +51,7 @@ It was a tough choice, but the captaincy choice finally landed on Microsoft for 
 2. Multiple revenue streams
 3. Good profit margin
 4. Growing precense in the developer space
-5. Using cash at hand very well, taking many different bets as well as smart acqusitions
+5. Using cash at hand very well, taking many different bets as well as smart acquisitions
 
 ### Q3 Earning Reports
 
@@ -160,7 +160,7 @@ Solid quarter by NVIDIA. High valuation though. However, I'm bullish on all thin
 
 > Good Q3, revenue of $5.46 billion (25% increase Y/Y) and a net income at $1.1 billion (20% margin). You can find the Press Release and Webcast [here](https://investor.pypl.com/home/default.aspx). I recommend the Investor Update.
 
-PayPal has stepped it up the recent years, making both good [acqusitions](https://en.wikipedia.org/wiki/PayPal#Acquisitions) and investments in the fintech space, including the two swedish companies iZettle (acqusition) and Tink (investment). As fintech will keep growing, I think PayPal will do well.
+PayPal has stepped it up the recent years, making both good [acquisitions](https://en.wikipedia.org/wiki/PayPal#Acquisitions) and investments in the fintech space, including the two swedish companies iZettle (acquisition) and Tink (investment). As fintech will keep growing, I think PayPal will do well.
 
 ### Shopify (Hold: 2)
 
