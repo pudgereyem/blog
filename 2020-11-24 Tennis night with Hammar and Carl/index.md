@@ -9,7 +9,7 @@ Me, Hammar and Carl went for a late night tennis session @ [Good to Great Academ
 
 > PlayReplay doesn't have an About page on their [website](https://playreplay.io/) what I can tell, but it seems like it's a swedish company.
 
-There was a touchscreen on the court where you could create an account with PlayReplay by simply entering your email and password. That's it. Then it sent the recording to your email after the session finished. Pretty cool. I edited out some highligts that you can see below.
+There was a touchscreen on the court where you could create an account with PlayReplay by simply entering your email and password. That's it. Then it sent the recording to your email after the session finished. Pretty cool. I edited out some highlights that you can see below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HhuS33CzD4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -46,7 +46,7 @@ if __name__ == "__main__":
     times.append(["00:33:58", "00:34:08"]) # Äcklig stoppboll av Carlos
     times.append(["00:35:04", "00:35:12"]) # Vattenpaus
     times.append(["00:37:04", "00:37:19"]) # Carlos yxkast-lopp över Hammar
-    times.append(["00:38:05", "00:38:15"]) # Victor lobbar Caminho
+    times.append(["00:38:05", "00:38:15"]) # Victor lobbar Hammar
     times.append(["00:38:58", "00:39:06"]) # Hammar BACKHAND
     times.append(["00:39:42", "00:39:49"]) # Hammar FOREHAND
     times.append(["00:40:37", "00:40:41"]) # Hammar är HELT KLAR
