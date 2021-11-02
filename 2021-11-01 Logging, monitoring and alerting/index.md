@@ -3,8 +3,6 @@ title: Logging, monitoring and alerting
 date: 2021-11-01
 ---
 
-![](its-fine-meme.gif)
-
 **Logging**, **monitoring** and **alerting** is a very important piece when deploying software. In my experience, it's important that best practices are implemented at an early stage of a project. Whenever code is changed we should make sure that we are:
 
 1. **Logging** everything that could be out of interest
@@ -43,7 +41,7 @@ Silent errors are errors that do not trigger any kind of reporting, and therefor
 
 ### Errors will happen, let's stay on top of them
 
-When building an application you are often dealing with a third party that you are not in control of. In this case it's important that we gracefully deal with them and get an alert so that we can fix them if possible.
+When building an application you are often dealing with a third party that you are not in control of. In case a third party API throws an error we should deal with it gracefully and send an alert so that we can fix the issue if possible.
 
 ### Don't fix the silent error right away
 
@@ -53,16 +51,16 @@ Whenever you are made aware of silent error, the first instinct might be to fix 
 2. Should I monitor this error?
 3. Should I have received an alert?
 
-By addressing the "logging" aspects first, you should have a better visibility of the error before you go ahead and fix it. This will make the codebase much more stable and the developer experience will be much better in the long term. I've worked with products where almost no errors were monitored and it resulted in a product where errors frequently would appear, and probably even more silent errors that were never even reported.
+By addressing the "logging" aspects first, you should have a better visibility of the error before you go ahead and fix it. This will make the codebase much more stable and the developer experience better.
 
 ### A practical example
 
 Let's say that a third party API failed, resulting in the application crashing I recommend you to:
 
-1. Make sure to gracefully deal with the error and if necessary display a human readable error message to the user
+1. Make sure to gracefully deal with the error
 2. Make sure that you log the error
 3. Make sure that you get an alert when the error occurs
-4. Start monitoring the error (and possibly similar errors)
+4. If suitable; start monitoring the error (and possibly similar errors)
 
 **..and only when this is done you can fix the problem.**
 
