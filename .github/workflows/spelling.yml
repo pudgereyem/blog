@@ -13,4 +13,4 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 2
-      - uses: check-spelling/check-spelling@master
+      - uses: check-spelling/check-spelling@main
