@@ -16,7 +16,7 @@ If done correctly, any error would be apparent to the developer / business at an
 ### 1) 🧾 Logging
 
 ```
-As a develooper
+As a developer
 I want to be able to see a log of notable events
 So that I can analyse and debug what's happening
 ```
@@ -66,7 +66,7 @@ Let's say that a third party API failed, resulting in the application crashing I
 
 **..and only when this is done you can fix the problem.**
 
-Ofcourse there are scenarios where a hotfix is necessary, but ignoring the steps above will most likely result in a codebase where errors similar to the one that showed up will occur in the future. If you make sure to address the logging, you ensure that you stay on top of errors in the future and can fix them as soon as possible. The time spent setting up a good standard for logging will result in a better product, happier developers and more time to work on actual features.
+Of course there are scenarios where a hotfix is necessary, but ignoring the steps above will most likely result in a codebase where errors similar to the one that showed up will occur in the future. If you make sure to address the logging, you ensure that you stay on top of errors in the future and can fix them as soon as possible. The time spent setting up a good standard for logging will result in a better product, happier developers and more time to work on actual features.
 
 ### What tools to use?
 
