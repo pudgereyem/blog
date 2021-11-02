@@ -41,7 +41,7 @@ Silent errors are errors that do not trigger any kind of reporting, and therefor
 
 ### Errors will happen, let's stay on top of them
 
-When building an application you are often dealing with a third party that you are not in control of. In case a third party API throws an error we should deal with it gracefully and send an alert so that we can fix the issue if possible.
+When building an application you are often dealing with a third party that you are not in control of. In case a third party API throws an error we should deal with it accordingly and send an alert so that we can fix the issue if possible. Monitoring the HTTP status codes per endpoint is also very helpful.
 
 ### Don't fix the silent error right away
 
