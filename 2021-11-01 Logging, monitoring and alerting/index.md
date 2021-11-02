@@ -3,7 +3,7 @@ title: Logging, monitoring and alerting
 date: 2021-11-01
 ---
 
-![Its fine meme](its-fine-meme.gif)
+![](its-fine-meme.gif)
 
 **Logging**, **monitoring** and **alerting** is a very important piece when deploying software. In my experience, it's important that best practices are implemented at an early stage of a project. Whenever code is changed we should make sure that we are:
 
