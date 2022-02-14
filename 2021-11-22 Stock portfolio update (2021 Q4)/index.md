@@ -16,13 +16,13 @@ date: 2022-02-13
         Alphabet    Amazon      BMW      Shopify
 
       1          1          1          1          1
-     AMD       Exxon      Nordea     Nvidia    Facebook
+     AMD       Exxon      Nordea     Nvidia      Meta
                                                 (NEW!)
 ```
 
 ### TL;DR
 
-- Sold PayPal and bought Facebook
+- Sold PayPal and bought Meta
 - Sold Activision Blizzard and bought Flat Capital
 - Downgraded BMW and upgraded Apple
 - I sit with 75% in stocks and 25% in cash
@@ -41,7 +41,7 @@ Below is a summary of the Q4 earnings. Most companies had great fourth quarters.
 | Apple               | \$123,950 |   11.22 |   \$34,630 |        27.94% |
 | BMW                 |  \$27,470 |    4.52 |    \$2,560 |         9.33% |
 | Exxon Mobil         |  \$84,970 |  144.20 |    \$8,870 |        10.44% |
-| Facebook            |  \$33,670 |   19.95 |   \$10.290 |        30.55% |
+| Meta                |  \$33,670 |   19.95 |   \$10.290 |        30.55% |
 | Flat Capital        |         - |       - |          - |             - |
 | Microsoft           |  \$51,730 |   20.09 |   \$18,770 |        36.28% |
 | Nordea              |   \$2,270 |    3.89 |    \$1,020 |        44.80% |
@@ -115,18 +115,18 @@ Last year when Exxon struggled I decided to downgrade Exxon from a 2 to 1 (see b
 
 With Exxon performing so well in 2021, I will continue to hold the stock. I'll end with a quote from one of my favorite movies; [There Will Be Blood](https://www.imdb.com/title/tt0469494/), featuring Daniel Day-Lewis; **_I’m an oil man, ladies and gentlemen._**
 
-### Facebook (New: 1)
+### Meta (New: 1)
 
 > Good Q4, revenue of $33.7 billion (+20% y/y) and a net income of $10.3 billion (30.55% profit margin). You can find the Press Release [here](https://investor.fb.com/investor-events/default.aspx).
 
-Almost all revenue for Facebook is from advertising. Beginning this quarter Facebook started to report their financial results based on two reportable segments:
+Almost all revenue for Meta is from advertising. Beginning this quarter Meta started to report their financial results based on two reportable segments:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gElfIo6uw4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. **Family of Apps (FoA)**, which includes Facebook, Instagram, Messenger, WhatsApp and other services
 2. **Reality Labs (RL)**, which includes augmented and virtual reality related consumer hardware, software and content.
 
-Even though it's the advertising business from their **Family of Apps** segment that is bringing in all the cash, it is **Reality Labs** segment and metaverse that gets me going. They will continue to lose money on this segment for many years to come, but if the world becomes anywhere near what Facebook thinks it will most likely be a great bet for them.
+Even though it's the advertising business from their **Family of Apps** segment that is bringing in all the cash, it is **Reality Labs** segment and metaverse that gets me going. They will continue to lose money on this segment for many years to come, but if the world becomes anywhere near what Meta thinks it will most likely be a great bet for them. Here is a podcast recorded in a virtual reality studio with avatars from Meta; [VR Download: Meta Revenue Report, Microsoft Turmoil, Tobii PSVR2 Negotiations](https://www.youtube.com/watch?v=B6Um07YoqSU).
 
 ### Flat Capital (New: 3)
 
