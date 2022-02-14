@@ -13,11 +13,11 @@ date: 2022-02-13
                     (NEW!)
 
            2          2          2          2
-        Alphabet    Amazon      BMW      Shopify
+        Alphabet    Amazon      BMW        Meta
+                                          (NEW!)
 
       1          1          1          1          1
-     AMD       Exxon      Nordea     Nvidia      Meta
-                                                (NEW!)
+     AMD       Exxon      Nordea     Nvidia     Shopify
 ```
 
 ### TL;DR
@@ -25,6 +25,7 @@ date: 2022-02-13
 - Sold PayPal and bought Meta
 - Sold Activision Blizzard and bought Flat Capital
 - Downgraded BMW and upgraded Apple
+- Downgraded Shopify
 - I sit with 75% in stocks and 25% in cash
 - Microsoft will be my captain going forward as well
 
